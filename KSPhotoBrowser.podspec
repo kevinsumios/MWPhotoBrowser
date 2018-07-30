@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
     :git => 'https://github.com/kevinsumios/KSPhotoBrowser.git',
     :tag => '1.0.0'
   }
-  s.platform = :ios, '7.0'
+  s.platform = :ios, '8.0'
   s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
     'KSPhotoBrowser' => ['Pod/Assets/*.png']
